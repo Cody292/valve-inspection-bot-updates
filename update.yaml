@@ -1,7 +1,7 @@
-version: 1.0.4
-notes: "修复安装包构建缺失，调整仪表板缓存为 30 分钟，并将保存反馈收敛到按钮文案。"
-pub_time: "2026-04-30T10:11:38Z"
+version: 1.0.5
+notes: "修复数据仪表板刷新冷却在切换 Tab 后丢失的问题，并修正在线更新的退出、状态文案与启动自动检查流程。"
+pub_time: "2026-04-30T11:31:53Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "8a2d2618333dfc7d98e0fb264b4112ea87573bae7a975ca74c15537f4a3362d2"
+sha256: "07740ada23d3cd2042a03c9d53f62b96fb9242589f42d889082c9750477e799f"
 mandatory: false
