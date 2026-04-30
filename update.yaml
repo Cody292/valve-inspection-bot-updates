@@ -1,7 +1,7 @@
-version: 1.0.3
-notes: "修复自动检查更新与跨月业务表热切换，优化构建发布流程。"
-pub_time: "2026-04-30T08:41:26Z"
+version: 1.0.4
+notes: "修复安装包构建缺失，调整仪表板缓存为 30 分钟，并将保存反馈收敛到按钮文案。"
+pub_time: "2026-04-30T10:11:38Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "5f4736e3c5c0ba52f6d26b2647a0a5c23ffcb57df4589ab3b85b41b20c2d29ea"
+sha256: "8a2d2618333dfc7d98e0fb264b4112ea87573bae7a975ca74c15537f4a3362d2"
 mandatory: false
