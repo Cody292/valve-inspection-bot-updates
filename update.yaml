@@ -1,7 +1,7 @@
-﻿version: 1.0.0
-notes: "当前为基线版本，尚未发布更高版本更新包。"
-pub_time: "2026-04-29T00:00:00+08:00"
-url: ""
-url_mirror_cn: ""
-sha256: ""
+version: 1.0.1
+notes: "在线更新链路测试版本。"
+pub_time: "2026-04-30T04:48:35Z"
+url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
+url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
+sha256: "0e67a6daa1812eba28632ce42bfb5ea7ae7daf8d260439333fce27a94ec60ab4"
 mandatory: false
