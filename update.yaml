@@ -1,7 +1,7 @@
-version: 1.0.2
-notes: "修复更新安装重启与设置体验，优化构建发布流程。"
-pub_time: "2026-04-30T07:14:13Z"
+version: 1.0.3
+notes: "修复自动检查更新与跨月业务表热切换，优化构建发布流程。"
+pub_time: "2026-04-30T08:41:26Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "bab252ef4a1e7790a4b4bbc6e469882b99dd09bedc58ccb581c964ed658ec16b"
+sha256: "5f4736e3c5c0ba52f6d26b2647a0a5c23ffcb57df4589ab3b85b41b20c2d29ea"
 mandatory: false
