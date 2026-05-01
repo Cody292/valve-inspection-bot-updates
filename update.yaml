@@ -1,7 +1,7 @@
-version: 1.0.5
-notes: "修复数据仪表板刷新冷却在切换 Tab 后丢失的问题，并修正在线更新的退出、状态文案与启动自动检查流程。"
-pub_time: "2026-04-30T11:31:53Z"
+version: 1.0.6
+notes: "为微信 Bot 管理员账号新增重新登录入口，便于掉线后重新扫码登录。"
+pub_time: "2026-05-01T12:00:07Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "07740ada23d3cd2042a03c9d53f62b96fb9242589f42d889082c9750477e799f"
+sha256: "e96c320557bbf6809daa94c0d2328e7a52649ad13425dc9060d0234552fd90a7"
 mandatory: false
