@@ -1,7 +1,7 @@
-version: 1.0.6
-notes: "为微信 Bot 管理员账号新增重新登录入口，便于掉线后重新扫码登录。"
-pub_time: "2026-05-01T12:00:07Z"
+version: 1.0.7
+notes: "修复微信重登录二维码链路、在线更新提示与退出联动，并支持按已有月份表导出。"
+pub_time: "2026-05-01T14:31:50Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "e96c320557bbf6809daa94c0d2328e7a52649ad13425dc9060d0234552fd90a7"
+sha256: "2608afcf51ce8a3084d2254a342a3842dabd74709b2eaf5206b0cf07a4769bbd"
 mandatory: false
