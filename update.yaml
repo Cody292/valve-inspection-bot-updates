@@ -1,7 +1,7 @@
-version: 1.0.7
+version: 1.0.12
 notes: "修复微信重登录二维码链路、在线更新提示与退出联动，并支持按已有月份表导出。"
-pub_time: "2026-05-01T14:31:50Z"
+pub_time: "2026-05-01T16:28:51Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "2608afcf51ce8a3084d2254a342a3842dabd74709b2eaf5206b0cf07a4769bbd"
+sha256: "a253770442adb91d0d663923648e7563ddf9b2c90e9247ce30f87669a970fad4"
 mandatory: false
