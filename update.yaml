@@ -1,7 +1,7 @@
-version: 1.0.13
-notes: "修复微信 Bot 运行中重新登录卡住，并增强在线更新元数据请求超时与镜像兜底。"
-pub_time: "2026-05-02T03:31:32Z"
+version: 1.0.14
+notes: "优化系统设置导出按钮布局，修复仪表板重启后统计自动加载，并移除业务记录表冗余问题列。"
+pub_time: "2026-05-02T05:19:47Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "99bd024c018a46cad93d64315fa11abfd8efe56792ea7a9e3653e7a98c02883a"
+sha256: "13e7c3f768e2f9642211fdb39d243b323cf1ee337d977b150b37ce3074cdd32b"
 mandatory: false
