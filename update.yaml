@@ -1,7 +1,7 @@
-version: 1.0.14
-notes: "优化系统设置导出按钮布局，修复仪表板重启后统计自动加载，并移除业务记录表冗余问题列。"
-pub_time: "2026-05-02T05:19:47Z"
+version: 1.0.15
+notes: "优化启动更新弹窗直达安装，并修复系统维护与导出按钮同排展示。"
+pub_time: "2026-05-02T08:41:37Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "13e7c3f768e2f9642211fdb39d243b323cf1ee337d977b150b37ce3074cdd32b"
+sha256: "cfd90bac8ca0172a311c973f9d55a72e37f6514b1e00b677d9b678a241a72adb"
 mandatory: false
