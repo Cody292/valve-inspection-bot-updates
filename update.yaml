@@ -1,7 +1,7 @@
-version: 1.0.15
-notes: "优化启动更新弹窗直达安装，并修复系统维护与导出按钮同排展示。"
-pub_time: "2026-05-02T08:41:37Z"
+version: 1.0.16
+notes: "修复在线更新下载回退、更新按钮卡死，并补齐夸克 kuake 可执行文件自愈释放。"
+pub_time: "2026-05-03T04:08:17Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-url_mirror_cn: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "cfd90bac8ca0172a311c973f9d55a72e37f6514b1e00b677d9b678a241a72adb"
+url_mirror_cn: "https://cdn.jsdelivr.net/gh/Cody292/valve-inspection-bot-updates@main/stable/win-amd64/valve-inspection-bot.exe"
+sha256: "51d485bd76cc222b6ee998e726c2ce53761629bcbf4661a8d337aefb3c65f057"
 mandatory: false
