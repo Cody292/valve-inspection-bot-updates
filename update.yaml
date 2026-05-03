@@ -1,7 +1,7 @@
-version: 1.0.16
-notes: "修复在线更新下载回退、更新按钮卡死，并补齐夸克 kuake 可执行文件自愈释放。"
-pub_time: "2026-05-03T04:08:17Z"
+version: 1.1.0
+notes: "修复夸克备份远端目录初始化，补齐夸克日志与失败阶段提示，并优化更新与夸克弹窗交互。"
+pub_time: "2026-05-03T11:08:33Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
 url_mirror_cn: "https://cdn.jsdelivr.net/gh/Cody292/valve-inspection-bot-updates@main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "51d485bd76cc222b6ee998e726c2ce53761629bcbf4661a8d337aefb3c65f057"
+sha256: "c1428a791c9504ff2d0abbe00f3bddd2b974b5bb0de4b07b84f54dc323552123"
 mandatory: false
