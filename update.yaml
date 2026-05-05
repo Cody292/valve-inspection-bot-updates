@@ -1,7 +1,10 @@
-version: 1.1.1
-notes: "优化夸克云端备份状态与计划时间配置，并增加在线更新 hubproxy 回退。"
-pub_time: "2026-05-04T10:44:37Z"
-url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot.exe"
-url_mirror_cn: "https://cdn.jsdelivr.net/gh/Cody292/valve-inspection-bot-updates@main/stable/win-amd64/valve-inspection-bot.exe"
-sha256: "282cf2cac7f92e1b4af396c2062cec77b6eacee79342eddfae8929425d7e5c6a"
+version: 1.1.2
+notes: "将在线更新主目标迁移为 installer，并切换为无 UAC 的静默安装链路。"
+pub_time: "2026-05-05T05:41:47Z"
+url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
+url_mirror_cn: "https://cdn.jsdelivr.net/gh/Cody292/valve-inspection-bot-updates@main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
+sha256: "eace6ee7423e010698113f3a6eb63dbaf80d01d9bebfae459afa375c3783e464"
 mandatory: false
+package_type: "installer"
+silent_args: "/S"
+install_scope: "user"
