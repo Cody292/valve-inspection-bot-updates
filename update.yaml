@@ -1,9 +1,9 @@
-version: 2.0.0
-notes: "将在线更新主目标迁移为 installer，并切换为无 UAC 的静默安装链路。"
-pub_time: "2026-05-06T04:43:28Z"
+version: 2.1.0
+notes: "发布插件化架构整理、插件页保存反馈统一与在线更新进度锁定优化。"
+pub_time: "2026-05-08T10:56:07Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://cdn.jsdelivr.net/gh/Cody292/valve-inspection-bot-updates@main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "9d6fb9d6bf9730d821bc7c020dab7c551be6ecbc39846c26bd2c42eea64eb3bd"
+sha256: "32dae63c06bdde3300c7fc9649b518c13a0ac4ff8ac385c5057040ebcc88a36d"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
