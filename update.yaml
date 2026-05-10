@@ -1,9 +1,9 @@
-version: 2.2.5
-notes: "发布 v2.2.5 供在线更新链路回归测试。"
-pub_time: "2026-05-10T15:53:37Z"
+version: 2.2.6
+notes: "修复在线更新时主程序未完全退出导致重启后仍显示旧版本的问题。"
+pub_time: "2026-05-10T16:49:03Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "6189da050118725cbb7a0a53073b3fd17743f569c7cbdfce7c8e861f13212b42"
+sha256: "1e16db541bb70e0f84797689ffb98446ea3a00c701cc261352370f566d544d17"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
