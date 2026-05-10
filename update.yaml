@@ -1,9 +1,9 @@
-version: 2.2.3
-notes: "修复正式发版 workflow，并继续使用 GitHub Releases + updates 仓库双通道发布。"
-pub_time: "2026-05-10T14:09:35Z"
+version: 2.2.4
+notes: "修复在线更新多镜像测速回退与静默安装目录覆盖问题。"
+pub_time: "2026-05-10T15:25:39Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "bf7b86f5b447d800b1eb1263fdc0908ecb7c5f7cd834fbc466c975fe706c4ea1"
+sha256: "25ba07e296fc2e55e94eb3ef31bd5bfe8170c8bb8b8c3434f24f904c839194e5"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
