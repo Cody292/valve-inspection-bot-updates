@@ -1,9 +1,9 @@
-version: 2.1.0
-notes: "发布插件化架构整理、插件页保存反馈统一与在线更新进度锁定优化。"
-pub_time: "2026-05-08T10:56:07Z"
+version: 2.2.0
+notes: "发布插件页提示收口、巡检与物料登记 Markdown 文案统一，以及安装包重构建。"
+pub_time: "2026-05-10T07:01:33Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://cdn.jsdelivr.net/gh/Cody292/valve-inspection-bot-updates@main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "32dae63c06bdde3300c7fc9649b518c13a0ac4ff8ac385c5057040ebcc88a36d"
+sha256: "cb1ff29ae178feb9209746c408f094a884d2b729125a854df10babc6efc01857"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
