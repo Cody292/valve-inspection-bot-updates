@@ -1,9 +1,9 @@
-version: 2.2.7
-notes: "修复在线更新时主程序未完全退出导致重启后仍显示旧版本的问题。"
-pub_time: "2026-05-11T02:18:27Z"
+version: 2.2.8
+notes: "优化巡检与物料插件的多维表自动识别、统一导出入口，并将全局通用指令回复改为 Markdown 风格。"
+pub_time: "2026-05-11T03:32:10Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "cfebcf52c0d4fb59009581a84b2dfd1e598eb2c704a6c617e8ac38cc06fe3a45"
+sha256: "c39785da6665aac1af60d16420c30121f762689e6af37fb3c815c51c18b56fb3"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
