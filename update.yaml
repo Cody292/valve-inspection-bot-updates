@@ -1,9 +1,9 @@
-version: 2.2.8
-notes: "优化巡检与物料插件的多维表自动识别、统一导出入口，并将全局通用指令回复改为 Markdown 风格。"
-pub_time: "2026-05-11T03:32:10Z"
+version: 2.2.9
+notes: "完善巡检插件导出功能，支持按月、按年、按日期范围与全部导出。"
+pub_time: "2026-05-11T15:11:33Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "c39785da6665aac1af60d16420c30121f762689e6af37fb3c815c51c18b56fb3"
+sha256: "609d991abf5c5ee4453809f01ad035a925460905061df3e1d95cce1f1b408ec7"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
