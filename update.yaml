@@ -1,9 +1,9 @@
-version: 2.2.9
-notes: "完善巡检插件导出功能，支持按月、按年、按日期范围与全部导出。"
-pub_time: "2026-05-11T15:11:33Z"
+version: 2.2.10
+notes: "统一导出表头与照片列，新增管理员全局导出指令。"
+pub_time: "2026-05-12T04:52:05Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "609d991abf5c5ee4453809f01ad035a925460905061df3e1d95cce1f1b408ec7"
+sha256: "8318bb9f27ecc85e21d33296efcf855d213da55e862eac9cd71eb97335904e4f"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
