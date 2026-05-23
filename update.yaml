@@ -1,9 +1,9 @@
-version: 2.2.11
-notes: "命令导出自动保存到缓存目录，并自动向用户发送导出文件。"
-pub_time: "2026-05-12T06:35:23Z"
+version: 2.3.0
+notes: "移除多维表格改用电子表格"
+pub_time: "2026-05-23T03:07:40Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "6ba6c0a919b17b7763ae30c5c95abb7f967ee24d3566c83487c80f186cfa4037"
+sha256: "f82767b5f192f483fe438a29395b9dec8f4aa6ea68da43bbc133ef7b7a303c3c"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
