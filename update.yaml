@@ -1,9 +1,9 @@
-version: 2.3.0
+version: 2.3.1
 notes: "移除多维表格改用电子表格"
-pub_time: "2026-05-23T03:07:40Z"
+pub_time: "2026-06-12T03:37:44Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "f82767b5f192f483fe438a29395b9dec8f4aa6ea68da43bbc133ef7b7a303c3c"
+sha256: "fb4934235ed7ead4bebd9e69023343472aa0c49d403a40bbc8f3619eca29d63c"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
