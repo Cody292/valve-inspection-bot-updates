@@ -1,9 +1,9 @@
-version: 2.3.3
-notes: "微信机器人新增导出周期选择（支持按月/按年/全量导出），优化导出交互流程与选择状态管理"
-pub_time: "2026-10-18T06:47:15Z"
+version: 2.3.4
+notes: "优化飞书电子表格写入边界与插入机制；前端新增全局统一样式 Alert/Select 组件，全面提升仪表板、日志、设置与插件中心交互体验。"
+pub_time: "2026-10-18T11:09:15Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "b36edaa5a60425194dce9b21aaa2d61ec18904af73b4baf1000f333692a53af2"
+sha256: "7c36f332e53e2fc1b96a2c9ef42b50363255fd9e31e8072e273873df80333a9e"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
