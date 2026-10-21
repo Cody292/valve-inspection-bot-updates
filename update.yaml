@@ -1,9 +1,9 @@
-version: 2.3.4
-notes: "优化飞书电子表格写入边界与插入机制；前端新增全局统一样式 Alert/Select 组件，全面提升仪表板、日志、设置与插件中心交互体验。"
-pub_time: "2026-10-18T11:09:15Z"
+version: 2.3.5
+notes: "支持在程序设置中为导出指令配置额外微信用户权限；保留管理员 Bot 导出权限。"
+pub_time: "2026-10-21T14:28:19Z"
 url: "https://raw.githubusercontent.com/Cody292/valve-inspection-bot-updates/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
 url_mirror_cn: "https://hk.gh-proxy.org/https://github.com/Cody292/valve-inspection-bot-updates/blob/main/stable/win-amd64/valve-inspection-bot-amd64-installer.exe"
-sha256: "7c36f332e53e2fc1b96a2c9ef42b50363255fd9e31e8072e273873df80333a9e"
+sha256: "dbc0431ba853b61b8d1b15458e0cfa0ba29365282aaef9070f3251152a594031"
 mandatory: false
 package_type: "installer"
 silent_args: "/S"
